@@ -23,7 +23,7 @@ A modern, responsive one-page website for a cozy coffee shop. Minimal design, wa
 Clone the repository and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/<your-username>/korica-coffee.git
+git clone https://github.com/meshk0v/korica-coffee.git
 cd korica-coffee
 xdg-open index.html   # or just double-click the file
 ```
